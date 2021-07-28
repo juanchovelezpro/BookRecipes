@@ -1,2 +1,2 @@
-# TrainingCSharp
-Some codes to learn and practice C#. 
+# BookRecipes
+A code to learn basics of C#.
